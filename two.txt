@@ -1,3 +1,5 @@
 first line in two
 second line in two
 third line added
+master added a line
+
